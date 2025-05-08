@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
-import GuessingGame from './guessinggame.png'
+import GuessingGame from './public/guessinggame.png'
 import './App.css'
 
 function App() {

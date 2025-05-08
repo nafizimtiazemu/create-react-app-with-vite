@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import CatFact from './CatFact'
 import reactLogo from './assets/react.svg'
 const guessingGameLogo = '/guessinggame.png';
 import confetti from 'canvas-confetti'
@@ -33,6 +34,7 @@ function App() {
             🎉 Welcome to my first React page!
           </p>
         )}
+        <CatFact />
       </div>
       <p className="read-the-docs">
         Click on the Guessing Game and React logos to learn more

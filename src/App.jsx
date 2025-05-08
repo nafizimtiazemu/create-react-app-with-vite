@@ -35,7 +35,7 @@ function App() {
         )}
       </div>
       <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
+        Click on the Guessing Game and React logos to learn more
       </p>
     </>
   )

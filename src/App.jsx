@@ -9,8 +9,8 @@ function App() {
   return (
     <>
       <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
+        <a href="https://ttpr-guessing-game-olive.vercel.app" target="_blank">
+          <img src={GuessingGame} className="logo" alt="Game logo" />
         </a>
         <a href="https://react.dev" target="_blank">
           <img src={reactLogo} className="logo react" alt="React logo" />

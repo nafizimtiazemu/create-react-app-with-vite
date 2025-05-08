@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
-import GuessingGame from './public/guessinggame.png'
+const guessingGameLogo = '/guessinggame.png';
 import './App.css'
 
 function App() {
@@ -10,7 +10,7 @@ function App() {
     <>
       <div>
         <a href="https://ttpr-guessing-game-olive.vercel.app" target="_blank">
-          <img src={GuessingGame} className="logo" alt="Game logo" />
+          <img src={guessingGameLogo} className="logo" alt="Game logo" />
         </a>
         <a href="https://react.dev" target="_blank">
           <img src={reactLogo} className="logo react" alt="React logo" />
